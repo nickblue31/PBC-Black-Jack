@@ -9,4 +9,6 @@ PBC Project
 
 5/15 判斷點數、亮牌
 
-須處理的部分：電腦自動叫牌、下注叫牌、保險(optional)、double(optional)、split(optional)、動畫(optional)
+5/16 電腦自動叫牌、自選荷官、作弊、離開遊戲
+
+須處理的部分：保險(optional)、double(optional)、split(optional)、動畫(optional)
